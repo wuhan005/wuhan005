@@ -5,4 +5,4 @@
 - 🏠 Blog at [github.red](https://github.red).
 - 🤤 [Buy me a cup of coffee.](https://afdian.net/@E99p1ant)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=e99p1ant.readme)
+![visitors](https://profile-views.vercel.app/api)
