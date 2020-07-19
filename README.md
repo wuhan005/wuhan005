@@ -7,4 +7,4 @@
 - 🏠 Blog at [github.red](https://github.red).
 - 🤤 [Buy me a cup of coffee.](https://afdian.net/@E99p1ant)
 
-![visitors](https://profile-views.vercel.app/api)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
