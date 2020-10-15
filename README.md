@@ -8,7 +8,7 @@
 
 - 🐭 Focus on Golang.
 - 🏠 Blog at [github.red](https://github.red).
-- 💬 [Ask me something?](https://box.n3ko.co/_/johnwu)
+- 💬 [Ask me something?](https://box.n3ko.co/_/e99)
 - 🤤 [Buy me a cup of coffee.](https://afdian.net/@E99p1ant)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
