@@ -9,6 +9,6 @@
 - 🐭 Focus on Golang.
 - 🏠 Blog at [github.red](https://github.red).
 - 💬 [Ask me something?](https://box.n3ko.co/_/e99)
-- 🤤 [Buy me a cup of coffee.](https://afdian.net/@E99p1ant)
+- 🤤 [Buy me a cup of coffee.](https://mianbaoduo.com/o/author-bGmTm29t)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
