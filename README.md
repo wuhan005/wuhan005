@@ -1,5 +1,3 @@
-![Vidar_chan](https://cdn.github.red/Vidar_Chan.png)
-
 <a href="https://github.com/wuhan005?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuhan005&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff" width="45%" />
 </a>
@@ -10,5 +8,9 @@
 - 🏠 Blog at [github.red](https://github.red).
 - 💬 [Ask me something?](https://box.n3ko.co/_/e99)
 - 🤤 [Buy me a cup of coffee.](https://mianbaoduo.com/o/author-bGmTm29t)
+
+Some cool gadgets I made:
+- [NekoBox - 匿名提问箱 / Anonymous Question Box](https://box.n3ko.co/)
+- [Apicon - API 热爱者](https://apicon.cn/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
