@@ -15,6 +15,7 @@ Some cool gadgets I made:
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box
+- 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization
