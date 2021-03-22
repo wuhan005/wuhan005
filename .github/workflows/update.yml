@@ -1,0 +1,40 @@
+name: Update profile
+
+on:
+  push:
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  build:
+    name: Build Binary
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Go 1.16
+        uses: actions/setup-go@v1
+        with:
+          go-version: 1.16
+
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v1
+
+      - name: Get dependencies
+        run: |
+          go mod tidy
+
+      - name: Build & Run
+        run: |
+          go build . && ./wuhan005
+
+      - name: Git Commit
+        run: |
+          git config --local user.email "bot@github.red"
+          git config --local user.name "Eggplant Bot"
+          git add README.md
+          git commit -m "Update README.md"
+
+      - name: Push changes
+          uses: ad-m/github-push-action@master
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: master
