@@ -37,6 +37,7 @@ projects:
     desc: Central Authentication Service
     tags:
       - Go
+      - Macaron
       - GORM
       - Redis
       - CAS Protocol
@@ -71,6 +72,14 @@ projects:
     tags:
       - Go
       - JSON
+  - icon: 📝
+    link: https://github.com/EggMD/EggMD
+    desc: Self-hosted collaborative documents service
+    tags:
+      - Go
+      - Macaron
+      - WebSocket
+      - Operation Transformation
   - icon: 🤝
     link: https://github.com/wuhan005/badges
     desc: GitHub contributors badges service
