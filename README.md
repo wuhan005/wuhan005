@@ -11,7 +11,7 @@
 - 🤤 [Buy me a cup of coffee.](https://mianbaoduo.com/o/author-bGmTm29t)
 
 Some cool gadgets I made:
-- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★379](https://github.com/vidar-team/Cardinal/stargazers) 
+- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★379](https://github.com/vidar-team/Cardinal/stargazers) / `CTF`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★16](https://github.com/wuhan005/Elaina/stargazers) 
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★1](https://github.com/wuhan005/Houki/stargazers) 
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★18](https://github.com/NekoWheel/NekoBox/stargazers) 
