@@ -31,7 +31,7 @@ jobs:
           git config --local user.email "bot@github.red"
           git config --local user.name "Eggplant Bot"
           git add README.md
-          git commit -m "Update README.md"
+          git commit -m "Update README.md" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
