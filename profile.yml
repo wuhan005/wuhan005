@@ -1,0 +1,54 @@
+projects:
+  - icon: 🚩
+    link: https://github.com/vidar-team/Cardinal
+    desc: CTF AWD platform
+    tags:
+  - icon: 🔮
+    link: https://github.com/wuhan005/Elaina
+    desc: Docker-based remote code runner
+    tags:
+  - icon: 🧹
+    link: https://github.com/wuhan005/Houki
+    desc: Customizable MitM proxy
+    tags:
+  - icon: 📫
+    link: https://github.com/NekoWheel/NekoBox
+    desc: Anonymous question box
+    tags:
+  - icon: 🗝
+    link: https://github.com/NekoWheel/NekoCAS
+    desc: Central Authentication Service
+    tags:
+  - icon: 👻
+    link: https://github.com/wuhan005/icppp
+    desc: The way to bypass website ICP checking
+    tags:
+  - icon: 👾
+    name: Apicon
+    link: https://apicon.cn/
+    desc: API sharing platform
+    tags:
+  - icon: 💫
+    link: https://github.com/wuhan005/Asteroid
+    desc: CTF AWD real-time 3D data visualization
+    tags:
+  - icon: 🔧
+    link: https://github.com/wuhan005/jkit
+    desc: CLI tool for JSON
+    tags:
+  - icon: 🤝
+    link: https://github.com/wuhan005/badges
+    desc: GitHub contributors badges service
+    tags:
+  - icon: 📃
+    link: https://github.com/wuhan005/Ego
+    desc: A simple website generator
+    tags:
+  - icon: 🔗
+    link: https://github.com/wuhan005/Frlink
+    desc: Beautify WordPress friends links
+    tags:
+  - icon: 🔍
+    link: https://github.com/wuhan005/GrabMe
+    desc: Hide contents in your WordPress posts
+    tags:
