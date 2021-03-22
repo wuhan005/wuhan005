@@ -3,6 +3,7 @@ projects:
     link: https://github.com/vidar-team/Cardinal
     desc: CTF AWD platform
     tags:
+      - CTF
   - icon: 🔮
     link: https://github.com/wuhan005/Elaina
     desc: Docker-based remote code runner
