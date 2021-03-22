@@ -1,4 +1,4 @@
-name: Update profile
+name: Cron Task
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Build Binary
+    name: Update Profile
     runs-on: ubuntu-latest
     steps:
       - name: Set up Go 1.16
@@ -24,7 +24,7 @@ jobs:
 
       - name: Build & Run
         run: |
-          go build . && ./wuhan005
+          go build . && ./wuhan005 && rm wuhan005
 
       - name: Git Commit
         run: |
