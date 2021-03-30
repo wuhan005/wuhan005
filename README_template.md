@@ -8,6 +8,7 @@
 - 🏠 Blog at [github.red](https://github.red).
 - 💬 [Ask me something?](https://box.n3ko.co/_/e99)
 - 📩 Reach me by [sending me an email](mailto:i@github.red).
+- 💡 Check out my [side projects roadmap](https://github.com/users/wuhan005/projects/1).
 - 🤤 [Buy me a cup of coffee.](https://mianbaoduo.com/o/author-bGmTm29t)
 
 Some cool gadgets I made:
