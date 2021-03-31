@@ -6,6 +6,7 @@ projects:
       - Go
       - GORM
       - Vue
+      - Server-Sent Events
       - CRUD
   - icon: 🔮
     link: https://github.com/wuhan005/Elaina
@@ -23,6 +24,7 @@ projects:
       - Go
       - MitM
       - HTTP(S)
+      - Server-Sent Events
   - icon: 📫
     link: https://github.com/NekoWheel/NekoBox
     desc: Anonymous question box
