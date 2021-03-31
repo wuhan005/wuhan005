@@ -12,9 +12,9 @@
 - 🤤 [Buy me a cup of coffee.](https://mianbaoduo.com/o/author-bGmTm29t)
 
 Some cool gadgets I made:
-- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★380](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `CRUD`
+- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★380](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★20](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
-- 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★1](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)`
+- 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★1](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Server-Sent Events`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★18](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `beego` `CRUD` `reCaptcha`
 - 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★5](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★7](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
