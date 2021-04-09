@@ -25,7 +25,7 @@ Some cool gadgets I made:
 - 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service  / `Go` `GitHub API`
 - 📃 [Ego](https://github.com/wuhan005/Ego) - A simple website generator / [★1](https://github.com/wuhan005/Ego/stargazers) / `Go` `Markdown` `YAML`
 - 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★3](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
-- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts / [★1](https://github.com/wuhan005/GrabMe/stargazers) / `PHP` `WordPress`
+- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts / [★2](https://github.com/wuhan005/GrabMe/stargazers) / `PHP` `WordPress`
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
