@@ -28,4 +28,17 @@ Some cool gadgets I made:
 - 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts / [★2](https://github.com/wuhan005/GrabMe/stargazers) / `PHP` `WordPress`
 
 
+Recent blog posts:
+- [道理我都懂，但 go embed 究竟该怎么用？](https://github.red/go-embed/) - 2021-02-20 13:14:16
+- [Elaina —— 基于 Docker 的远程代码运行器](https://github.red/hello-elaina/) - 2021-02-16 03:07:34
+- [一个实时协作文档的诞生](https://github.red/the-beginning-of-eggmd/) - 2021-02-07 21:55:23
+- [《黑客与画家》读书小记](https://github.red/hacker-painter/) - 2020-11-19 22:12:11
+- [从 Go 依赖注入聊聊 Macaron 框架的“黑魔法”](https://github.red/go-injection/) - 2020-10-23 23:28:42
+- [写在这个小站五周年之际](https://github.red/lightcube-5th/) - 2020-10-08 00:34:09
+- [聊聊 EventStream 服务器端推送](https://github.red/talking-about-eventstream/) - 2020-08-04 21:27:23
+- [CyBRICS 2020 Web Writeup](https://github.red/cybrics-2020-web-writeup/) - 2020-07-30 21:23:24
+- [GitHub Actions × Unity3D 持续交付实践](https://github.red/github-actions-x-unity3d/) - 2020-07-16 14:23:58
+- [简单地聊聊 GitHub 信息泄露监控](https://github.red/github-data-leak-talking/) - 2020-06-28 21:09:43
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
