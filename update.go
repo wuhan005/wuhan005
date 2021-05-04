@@ -22,6 +22,14 @@ type project struct {
 	Tags        []string `yaml:"tags"`
 }
 
+type post struct {
+	Title struct {
+		Rendered string `json:"rendered"`
+	} `json:"title"`
+	Link string `json:"link"`
+	Date string `json:"date"`
+}
+
 type profile struct {
 	Projects []project `yaml:"projects"`
 }
@@ -52,11 +60,38 @@ func main() {
 	projectsMarkdown := makeProjectMarkdown(profile.Projects)
 	readmeBytes = bytes.ReplaceAll(readmeBytes, []byte("{{PROJECTS}}"), []byte(projectsMarkdown))
 
+	postsMarkdown := makePostMarkdown()
+	readmeBytes = bytes.ReplaceAll(readmeBytes, []byte("{{POSTS}}"), []byte(postsMarkdown))
+
 	err = os.WriteFile("README.md", readmeBytes, 0644)
 	if err != nil {
 		log.Fatal("Failed to write README.md: %v", err)
 	}
 
+}
+
+func makePostMarkdown() string {
+	resp, err := http.Get("https://github.red/wp-json/wp/v2/posts")
+	if err != nil {
+		log.Error("Failed to get blog posts: %v", err)
+		return ""
+	}
+
+	var posts []post
+	if err := json.NewDecoder(resp.Body).Decode(&posts); err != nil {
+		log.Error("Failed to unmarshal blog posts response body: %v", err)
+		return ""
+	}
+
+	defer func() {
+		_ = resp.Body.Close()
+	}()
+
+	var postMarkdown string
+	for _, post := range posts {
+		postMarkdown += fmt.Sprintf("- [%s](%s) - %s\n", post.Title.Rendered, post.Link, strings.ReplaceAll(post.Date, "T", " "))
+	}
+	return postMarkdown
 }
 
 func makeProjectMarkdown(projects []project) string {
