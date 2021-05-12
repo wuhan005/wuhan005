@@ -14,7 +14,4 @@
 Some cool gadgets I made:
 {{PROJECTS}}
 
-Recent blog posts:
-{{POSTS}}
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
