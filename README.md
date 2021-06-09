@@ -1,3 +1,5 @@
+<a href="https://github.com/wuhan005/mebeats"><img align="right" width="80px" src="https://mebeats.n3ko.co/rate.png"/></a>
+
 ### Hi, I'm **E99p1ant**. 🍆
 
 <a href="https://github.com/wuhan005?tab=repositories">
