@@ -8,6 +8,14 @@ projects:
       - Vue
       - Server-Sent Events
       - CRUD
+  - icon: 💓 
+    link: https://github.com/wuhan005/mebeats
+    desc: Real-time MiBand heart rate data collection
+    tags:
+      - Go
+      - Bluetooh Low Energy
+      - Flamego
+      - Image generation
   - icon: 🔮
     link: https://github.com/wuhan005/Elaina
     desc: Docker-based remote code runner
