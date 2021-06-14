@@ -14,7 +14,7 @@
 - 🤤 [Buy me a cup of coffee.](https://mianbaoduo.com/o/author-bGmTm29t)
 
 Some cool gadgets I made:
-- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★425](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
+- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★426](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★110](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★24](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★2](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Server-Sent Events`
