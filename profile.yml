@@ -25,13 +25,6 @@ projects:
       - Vue
       - Flamego
       - WeChat Pay
-    desc: CTF AWD platform
-    tags:
-      - Go
-      - GORM
-      - Vue
-      - Server-Sent Events
-      - CRUD
   - icon: 🔮
     link: https://github.com/wuhan005/Elaina
     desc: Docker-based remote code runner
