@@ -12,6 +12,7 @@
 - 📩 Reach me by [sending me an email](mailto:i@github.red).
 - 💡 Check out my [side projects roadmap](https://github.com/users/wuhan005/projects/1).
 - 🤤 [Buy me a cup of coffee.](https://sponsors.github.red/)
+- 🔑 GPG key [`0FED108FC764D2CA`](https://github.com/wuhan005.gpg)
 
 Some cool gadgets I made:
 {{PROJECTS}}
