@@ -16,7 +16,7 @@
 - 🔑 GPG key [`0FED108FC764D2CA`](https://github.com/wuhan005.gpg)
 
 Some cool gadgets I made:
-- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★439](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
+- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★438](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★127](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 💰 [Scrooge](https://github.com/wuhan005/Scrooge) - Personal sponsorship site based on PAYBOB / [★3](https://github.com/wuhan005/Scrooge/stargazers) / `Go` `GORM` `Vue` `Flamego` `WeChat Pay`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★24](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
@@ -25,7 +25,7 @@ Some cool gadgets I made:
 - 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★5](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★44](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
-- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★91](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
+- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★90](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
 - 📝 [EggMD](https://github.com/EggMD/EggMD) - Self-hosted collaborative documents service / [★10](https://github.com/EggMD/EggMD/stargazers) / `Go` `Macaron` `WebSocket` `Operation Transformation`
 - 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service  / `Go` `GitHub API`
