@@ -42,6 +42,15 @@ projects:
       - MitM
       - HTTP(S)
       - Server-Sent Events
+  - icon: ☁️
+    link: https://github.com/wuhan005/Raika
+    desc: Hybrid cloud serverless function framework.
+    tags:
+      - Go
+      - Flamego
+      - Serverless
+      - CLI
+      - Daemon
   - icon: 📫
     link: https://github.com/NekoWheel/NekoBox
     desc: Anonymous question box
