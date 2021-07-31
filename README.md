@@ -19,7 +19,7 @@ Some cool gadgets I made:
 - 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★446](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★127](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 💰 [Scrooge](https://github.com/wuhan005/Scrooge) - Personal sponsorship site based on PAYBOB / [★3](https://github.com/wuhan005/Scrooge/stargazers) / `Go` `GORM` `Vue` `Flamego` `WeChat Pay`
-- 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★24](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
+- 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★25](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★3](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Server-Sent Events`
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework. / [★2](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★28](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `beego` `CRUD` `reCaptcha`
@@ -29,7 +29,7 @@ Some cool gadgets I made:
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★91](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
 - 📝 [EggMD](https://github.com/EggMD/EggMD) - Self-hosted collaborative documents service / [★10](https://github.com/EggMD/EggMD/stargazers) / `Go` `Macaron` `WebSocket` `Operation Transformation`
-- 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service  / `Go` `GitHub API`
+- 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service / [★1](https://github.com/wuhan005/badges/stargazers) / `Go` `GitHub API`
 - 📃 [Ego](https://github.com/wuhan005/Ego) - A simple website generator / [★1](https://github.com/wuhan005/Ego/stargazers) / `Go` `Markdown` `YAML`
 - 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★4](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
 - 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts / [★3](https://github.com/wuhan005/GrabMe/stargazers) / `PHP` `WordPress`
