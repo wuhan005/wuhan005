@@ -28,7 +28,7 @@ Some cool gadgets I made:
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★92](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
-- 📝 [EggMD](https://github.com/EggMD/EggMD) - Self-hosted collaborative documents service / [★10](https://github.com/EggMD/EggMD/stargazers) / `Go` `Macaron` `WebSocket` `Operation Transformation`
+- 📝 [EggMD](https://github.com/EggMD/EggMD) - Self-hosted collaborative documents service / [★11](https://github.com/EggMD/EggMD/stargazers) / `Go` `Macaron` `WebSocket` `Operation Transformation`
 - 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service / [★1](https://github.com/wuhan005/badges/stargazers) / `Go` `GitHub API`
 - 📃 [Ego](https://github.com/wuhan005/Ego) - A simple website generator / [★1](https://github.com/wuhan005/Ego/stargazers) / `Go` `Markdown` `YAML`
 - 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★4](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
