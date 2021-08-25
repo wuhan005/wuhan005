@@ -16,15 +16,6 @@ projects:
       - Bluetooh Low Energy
       - Flamego
       - Image generation
-  - icon: 💰
-    link: https://github.com/wuhan005/Scrooge
-    desc: Personal sponsorship site based on PAYBOB
-    tags:
-      - Go
-      - GORM
-      - Vue
-      - Flamego
-      - WeChat Pay
   - icon: 🔮
     link: https://github.com/wuhan005/Elaina
     desc: Docker-based remote code runner
@@ -75,6 +66,15 @@ projects:
     tags:
       - Go
       - docker-compose
+  - icon: 💰
+    link: https://github.com/wuhan005/Scrooge
+    desc: Personal sponsorship site based on PAYBOB
+    tags:
+      - Go
+      - GORM
+      - Vue
+      - Flamego
+      - WeChat Pay
   - icon: 👾
     name: Apicon
     link: https://apicon.cn/
@@ -100,27 +100,12 @@ projects:
     tags:
       - Go
       - JSON
-  - icon: 📝
-    link: https://github.com/EggMD/EggMD
-    desc: Self-hosted collaborative documents service
-    tags:
-      - Go
-      - Macaron
-      - WebSocket
-      - Operation Transformation
   - icon: 🤝
     link: https://github.com/wuhan005/badges
     desc: GitHub contributors badges service
     tags:
       - Go
       - GitHub API
-  - icon: 📃
-    link: https://github.com/wuhan005/Ego
-    desc: A simple website generator
-    tags:
-      - Go
-      - Markdown
-      - YAML
   - icon: 🔗
     link: https://github.com/wuhan005/Frlink
     desc: Beautify WordPress friends links
