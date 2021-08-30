@@ -26,13 +26,13 @@ Some cool gadgets I made:
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★30](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `beego` `CRUD` `reCaptcha`
 - 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★5](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★44](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
-- 💰 [Scrooge](https://github.com/wuhan005/Scrooge) - Personal sponsorship site based on PAYBOB  / `Go` `GORM` `Vue` `Flamego` `WeChat Pay`
+- 💰 [Scrooge](https://github.com/wuhan005/Scrooge) - Personal sponsorship site based on PAYBOB / [★3](https://github.com/wuhan005/Scrooge/stargazers) / `Go` `GORM` `Vue` `Flamego` `WeChat Pay`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
-- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization  / `C#` `Unity3D` `WebSocket`
-- 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON  / `Go` `JSON`
-- 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service  / `Go` `GitHub API`
-- 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links  / `PHP` `WordPress`
-- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts  / `PHP` `WordPress`
+- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★93](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
+- 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
+- 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service / [★1](https://github.com/wuhan005/badges/stargazers) / `Go` `GitHub API`
+- 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★4](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
+- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts / [★3](https://github.com/wuhan005/GrabMe/stargazers) / `PHP` `WordPress`
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
