@@ -8,14 +8,12 @@
 </a>
 
 - 🐭 Focus on Golang.
-- 💫 I'm proud of who I am, what I have built, and what I am building.
-- 🏠 Blog at [github.red](https://github.red).
 - 🏫 Student at Hangzhou Dianzi University.
-- 💬 [Ask me something?](https://box.n3ko.co/_/e99)
+- 🏠 Blog at [github.red](https://github.red).
 - 📩 Reach me by [sending me an email](mailto:i@github.red).
-- 💡 Check out my [side projects roadmap](https://github.com/users/wuhan005/projects/1).
+- 💬 [Ask me something?](https://box.n3ko.co/_/e99)
 - 🤤 [Buy me a cup of coffee.](https://github.com/sponsors/wuhan005/)
-- 🔑 GPG key [`0FED108FC764D2CA`](https://github.com/wuhan005.gpg)
+- 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
 - 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★469](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
