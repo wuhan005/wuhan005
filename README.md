@@ -20,7 +20,7 @@ Some cool gadgets I made:
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★143](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★28](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★4](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Server-Sent Events`
-- ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework.  / `Go` `Flamego` `Serverless` `CLI` `Daemon`
+- ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework. / [★4](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★35](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `beego` `CRUD` `reCaptcha`
 - 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★7](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★45](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
