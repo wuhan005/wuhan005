@@ -29,8 +29,8 @@ Some cool gadgets I made:
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★97](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
 - 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service / [★1](https://github.com/wuhan005/badges/stargazers) / `Go` `GitHub API`
-- 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links  / `PHP` `WordPress`
-- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts  / `PHP` `WordPress`
+- 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★4](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
+- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts / [★3](https://github.com/wuhan005/GrabMe/stargazers) / `PHP` `WordPress`
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
