@@ -22,7 +22,7 @@ Some cool gadgets I made:
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★4](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Server-Sent Events`
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework. / [★5](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★36](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `beego` `CRUD` `reCaptcha`
-- 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★9](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
+- 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★10](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★45](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 💰 [Scrooge](https://github.com/wuhan005/Scrooge) - Personal sponsorship site based on PAYBOB / [★4](https://github.com/wuhan005/Scrooge/stargazers) / `Go` `GORM` `Vue` `Flamego` `WeChat Pay`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
