@@ -1,4 +1,3 @@
-<a href="https://github.com/wuhan005/mebeats"><img align="right" width="80px" src="https://mebeats.7ie.tech/rate.png"/></a>
 <img align="right" src="https://busy.moe/badges/2?style=for-the-badge"/></a>
 
 ### Hi, I'm **E99p1ant**. 🍆
