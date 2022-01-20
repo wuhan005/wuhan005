@@ -6,7 +6,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuhan005&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="45%" />
 </a>
 
-- 🐭 Focus on Golang.
+- 🐭 Focus on Go.
 - 🏫 Student at Hangzhou Dianzi University.
 - 🏠 Blog at [github.red](https://github.red).
 - 📩 Reach me by [sending me an email](mailto:i@github.red).
