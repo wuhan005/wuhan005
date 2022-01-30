@@ -8,7 +8,7 @@ projects:
       - Vue
       - Server-Sent Events
       - CRUD
-  - icon: 💓 
+  - icon: 💓
     link: https://github.com/wuhan005/mebeats
     desc: Real-time MiBand heart rate data collection
     tags:
@@ -120,3 +120,10 @@ projects:
     tags:
       - PHP
       - WordPress
+
+cves:
+  - no: CVE-2022-24123
+    description: "[marktext](https://github.com/marktext/marktext) XSS to RCE in mermaid.js rendered."
+
+  - no: CVE-2022-24124
+    description: "[casdoor](https://github.com/casdoor/casdoor) SQL injection in field filter."

@@ -17,4 +17,7 @@
 Some cool gadgets I made:
 {{PROJECTS}}
 
+My CVE list:
+{{CVE}}
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)

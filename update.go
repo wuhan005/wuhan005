@@ -22,6 +22,11 @@ type project struct {
 	Tags        []string `yaml:"tags"`
 }
 
+type cve struct {
+	No          string `yaml:"no"`
+	Description string `yaml:"description"`
+}
+
 type post struct {
 	Title struct {
 		Rendered string `json:"rendered"`
@@ -32,6 +37,7 @@ type post struct {
 
 type profile struct {
 	Projects []project `yaml:"projects"`
+	CVEs     []cve     `yaml:"cves"`
 }
 
 func main() {
@@ -60,8 +66,8 @@ func main() {
 	projectsMarkdown := makeProjectMarkdown(profile.Projects)
 	readmeBytes = bytes.ReplaceAll(readmeBytes, []byte("{{PROJECTS}}"), []byte(projectsMarkdown))
 
-	postsMarkdown := makePostMarkdown()
-	readmeBytes = bytes.ReplaceAll(readmeBytes, []byte("{{POSTS}}"), []byte(postsMarkdown))
+	cvesMarkdown := makeCVEMarkdown(profile.CVEs)
+	readmeBytes = bytes.ReplaceAll(readmeBytes, []byte("{{CVE}}"), []byte(cvesMarkdown))
 
 	err = os.WriteFile("README.md", readmeBytes, 0644)
 	if err != nil {
@@ -129,6 +135,14 @@ func makeProjectMarkdown(projects []project) string {
 	}
 
 	return projectMarkdown
+}
+
+func makeCVEMarkdown(cves []cve) string {
+	var cveMarkdown string
+	for _, cve := range cves {
+		cveMarkdown += fmt.Sprintf("- **%s** %s\n", cve.No, cve.Description)
+	}
+	return cveMarkdown
 }
 
 func getRepoStarCount(link string) (int64, error) {
