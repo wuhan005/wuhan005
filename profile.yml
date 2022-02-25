@@ -127,3 +127,6 @@ cves:
 
   - no: CVE-2022-24124
     description: "[casdoor](https://github.com/casdoor/casdoor) SQL injection in field filter."
+   
+  - no: CVE-2022-23642
+    description: "[Sourcegraph](https://github.com/sourcegraph/sourcegraph) Remote Code Execution in Sourcegraph gitserver."
