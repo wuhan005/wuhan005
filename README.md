@@ -33,8 +33,8 @@ Some cool gadgets I made:
 
 
 🎯 My CVE list:
-- **CVE-2022-24123** [marktext](https://github.com/marktext/marktext) XSS to RCE in mermaid.js rendered.
 - **CVE-2022-24124** [casdoor](https://github.com/casdoor/casdoor) SQL injection in field filter.
+- **CVE-2022-24123** [marktext](https://github.com/marktext/marktext) XSS to RCE in mermaid.js rendered.
 - **CVE-2022-23642** [Sourcegraph](https://github.com/sourcegraph/sourcegraph) Remote Code Execution in Sourcegraph gitserver.
 
 
