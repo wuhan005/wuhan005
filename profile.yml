@@ -123,8 +123,11 @@ projects:
 
 cves:
   - no: CVE-2022-24124
+    link: https://github.com/advisories/GHSA-m358-g4rp-533r
     description: "[casdoor](https://github.com/casdoor/casdoor) SQL injection in field filter."
   - no: CVE-2022-24123
+    link: https://github.com/advisories/GHSA-wfqr-2wcw-6gjv
     description: "[marktext](https://github.com/marktext/marktext) XSS to RCE in mermaid.js rendered."
   - no: CVE-2022-23642
+    link: https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-qcmp-fx72-q8q9
     description: "[Sourcegraph](https://github.com/sourcegraph/sourcegraph) Remote Code Execution in Sourcegraph gitserver."

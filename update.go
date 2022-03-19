@@ -24,6 +24,7 @@ type project struct {
 
 type cve struct {
 	No          string `yaml:"no"`
+	Link        string `yaml:"link"`
 	Description string `yaml:"description"`
 }
 
@@ -140,7 +141,7 @@ func makeProjectMarkdown(projects []project) string {
 func makeCVEMarkdown(cves []cve) string {
 	var cveMarkdown string
 	for _, cve := range cves {
-		cveMarkdown += fmt.Sprintf("- **%s** %s\n", cve.No, cve.Description)
+		cveMarkdown += fmt.Sprintf("- [**%s**](%s) %s\n", cve.No, cve.Link, cve.Description)
 	}
 	return cveMarkdown
 }
