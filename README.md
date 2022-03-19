@@ -33,9 +33,9 @@ Some cool gadgets I made:
 
 
 🎯 My CVE list:
-- [**CVE-2022-24124**](https://github.com/advisories/GHSA-m358-g4rp-533r) [casdoor](https://github.com/casdoor/casdoor) SQL injection in field filter.
-- [**CVE-2022-24123**](https://github.com/advisories/GHSA-wfqr-2wcw-6gjv) [marktext](https://github.com/marktext/marktext) XSS to RCE in mermaid.js rendered.
-- [**CVE-2022-23642**](https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-qcmp-fx72-q8q9) [Sourcegraph](https://github.com/sourcegraph/sourcegraph) Remote Code Execution in Sourcegraph gitserver.
+- [**CVE-2022-24124**](https://github.com/advisories/GHSA-m358-g4rp-533r) **casdoor** SQL injection in field filter.
+- [**CVE-2022-24123**](https://github.com/advisories/GHSA-wfqr-2wcw-6gjv) **marktext** XSS to RCE in mermaid.js rendered.
+- [**CVE-2022-23642**](https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-qcmp-fx72-q8q9) **Sourcegraph** Remote Code Execution in Sourcegraph gitserver.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
