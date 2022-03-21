@@ -124,7 +124,7 @@ projects:
 cves:
   - no: CVE-2022-0415
     link: "https://github.com/gogs/gogs/security/advisories/GHSA-5gjh-5j4f-cpwv"
-    description: "**Gogs** Remote command execution in file uploading"
+    description: "**Gogs** Remote command execution in file uploading."
   - no: CVE-2022-24124
     link: https://github.com/advisories/GHSA-m358-g4rp-533r
     description: "**casdoor** SQL injection in field filter."
