@@ -33,7 +33,7 @@ Some cool gadgets I made:
 
 
 🎯 My CVE list:
-- [**CVE-2022-0415**](https://github.com/gogs/gogs/security/advisories/GHSA-5gjh-5j4f-cpwv) **Gogs** Remote command execution in file uploading
+- [**CVE-2022-0415**](https://github.com/gogs/gogs/security/advisories/GHSA-5gjh-5j4f-cpwv) **Gogs** Remote command execution in file uploading.
 - [**CVE-2022-24124**](https://github.com/advisories/GHSA-m358-g4rp-533r) **casdoor** SQL injection in field filter.
 - [**CVE-2022-24123**](https://github.com/advisories/GHSA-wfqr-2wcw-6gjv) **marktext** XSS to RCE in mermaid.js rendered.
 - [**CVE-2022-23642**](https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-qcmp-fx72-q8q9) **Sourcegraph** Remote Code Execution in Sourcegraph gitserver.
