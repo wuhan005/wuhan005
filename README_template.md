@@ -7,7 +7,6 @@
 </a>
 
 - 🐭 Focus on Go.
-- 🏫 Student at Hangzhou Dianzi University.
 - 🏠 Blog at [github.red](https://github.red).
 - 📩 Reach me by [sending me an email](mailto:i@github.red).
 - 💬 [Ask me something?](https://box.n3ko.co/_/e99)
