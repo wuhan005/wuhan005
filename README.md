@@ -1,6 +1,6 @@
 <a href="https://busy.moe/"><img align="right" src="https://busy.moe/badges/2?style=for-the-badge"/></a>
 
-### Hi, I'm **E99p1ant**. 🍆
+### Hi, I'm **E99p1ant**. 
 
 <a href="https://github.com/wuhan005?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuhan005&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="45%" />
