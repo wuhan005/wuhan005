@@ -14,7 +14,7 @@
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
-- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★579](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
+- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★580](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★164](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★35](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★23](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Flamego` `alpine.js` `SQLite`
@@ -24,7 +24,7 @@ Some cool gadgets I made:
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★47](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 💰 [Scrooge](https://github.com/wuhan005/Scrooge) - Personal sponsorship site based on PAYBOB / [★4](https://github.com/wuhan005/Scrooge/stargazers) / `Go` `GORM` `Vue` `Flamego` `WeChat Pay`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
-- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★102](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
+- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★103](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
 - 🤝 [badges](https://github.com/wuhan005/badges) - GitHub contributors badges service / [★1](https://github.com/wuhan005/badges/stargazers) / `Go` `GitHub API`
 - 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★4](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
