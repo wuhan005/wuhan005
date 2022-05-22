@@ -122,6 +122,9 @@ projects:
       - WordPress
 
 cves:
+  - no: CVE-2022-30781
+    link: "https://github.com/advisories/GHSA-p5f9-c9j9-g8qx"
+    description: "**Gitea** Remote command exection in repository migration."
   - no: CVE-2022-0415
     link: "https://github.com/advisories/GHSA-5gjh-5j4f-cpwv"
     description: "**Gogs** Remote command execution in file uploading."
