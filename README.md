@@ -34,6 +34,7 @@ Some cool gadgets I made:
 
 
 🎯 My CVE list:
+- [**CVE-2022-31038**](https://github.com/gogs/gogs/security/advisories/GHSA-xq4v-vrp9-vcf2) **Gogs** XSS vulnerability in repository issue list.
 - [**CVE-2022-30781**](https://github.com/advisories/GHSA-p5f9-c9j9-g8qx) **Gitea** Remote command exection in repository migration.
 - [**CVE-2022-0415**](https://github.com/advisories/GHSA-5gjh-5j4f-cpwv) **Gogs** Remote command execution in file uploading.
 - [**CVE-2022-24124**](https://github.com/advisories/GHSA-m358-g4rp-533r) **casdoor** SQL injection in field filter.
