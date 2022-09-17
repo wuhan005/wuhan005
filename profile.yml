@@ -68,15 +68,6 @@ projects:
     tags:
       - Go
       - docker-compose
-  - icon: 💰
-    link: https://github.com/wuhan005/Scrooge
-    desc: Personal sponsorship site based on PAYBOB
-    tags:
-      - Go
-      - GORM
-      - Vue
-      - Flamego
-      - WeChat Pay
   - icon: 👾
     name: Apicon
     link: https://apicon.cn/
@@ -102,12 +93,6 @@ projects:
     tags:
       - Go
       - JSON
-  - icon: 🤝
-    link: https://github.com/wuhan005/badges
-    desc: GitHub contributors badges service
-    tags:
-      - Go
-      - GitHub API
   - icon: 🔗
     link: https://github.com/wuhan005/Frlink
     desc: Beautify WordPress friends links
