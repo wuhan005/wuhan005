@@ -50,7 +50,8 @@ projects:
     tags:
       - Go
       - GORM
-      - beego
+      - Flamego
+      - Uptrace
       - CRUD
       - reCaptcha
   - icon: 🗝
