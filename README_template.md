@@ -13,8 +13,6 @@
 - 🤤 [Buy me a cup of coffee.](https://github.com/sponsors/wuhan005/)
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
-Last but not the least, [we're hiring](https://www.zhipin.com/gongsir/dc45230954e750691nd43tu9EFY~.html) at [ForkAI](https://forkai.cn/)!
-
 Some cool gadgets I made:
 {{PROJECTS}}
 
