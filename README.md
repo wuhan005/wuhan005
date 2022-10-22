@@ -21,7 +21,7 @@ Some cool gadgets I made:
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework. / [★6](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★70](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
 - 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★12](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
-- 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★51](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
+- 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★52](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★108](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
