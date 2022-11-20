@@ -54,15 +54,14 @@ projects:
       - Uptrace
       - CRUD
       - reCaptcha
-  - icon: 🗝
-    link: https://github.com/NekoWheel/NekoCAS
-    desc: Central Authentication Service
+  - icon: 😵
+    link: https://github.com/wuhan005/ingress-custom-error-pages
+    desc: Customized Ingress error pages
     tags:
       - Go
-      - Macaron
-      - GORM
-      - Redis
-      - CAS Protocol
+      - Flamego
+      - Kubernetes
+      - Nginx Ingress
   - icon: 👻
     link: https://github.com/wuhan005/icppp
     desc: The way to bypass website ICP checking
