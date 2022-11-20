@@ -20,7 +20,7 @@ Some cool gadgets I made:
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★25](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Flamego` `alpine.js` `SQLite`
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework / [★6](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★77](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
-- 🗝 [NekoCAS](https://github.com/NekoWheel/NekoCAS) - Central Authentication Service / [★12](https://github.com/NekoWheel/NekoCAS/stargazers) / `Go` `Macaron` `GORM` `Redis` `CAS Protocol`
+- 😵 [ingress-custom-error-pages](https://github.com/wuhan005/ingress-custom-error-pages) - Customized Ingress error pages / [★6](https://github.com/wuhan005/ingress-custom-error-pages/stargazers) / `Go` `Flamego` `Kubernetes` `Nginx Ingress`
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★54](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★108](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
