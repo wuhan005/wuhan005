@@ -62,6 +62,14 @@ projects:
       - Flamego
       - Kubernetes
       - Nginx Ingress
+  - icon: 🪤
+    link: https://github.com/wuhan005/k8s-image-replacer
+    desc: Replace image when creating pod, aims to speed up image pulling
+    tags:
+      - Go
+      - Flamego
+      - Kubernetes
+      - Mutating Webhook
   - icon: 👻
     link: https://github.com/wuhan005/icppp
     desc: The way to bypass website ICP checking
