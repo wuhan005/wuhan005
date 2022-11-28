@@ -19,7 +19,7 @@ Some cool gadgets I made:
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★35](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★25](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Flamego` `alpine.js` `SQLite`
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework / [★6](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
-- 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★85](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
+- 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★86](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
 - 😵 [ingress-custom-error-pages](https://github.com/wuhan005/ingress-custom-error-pages) - Customized Ingress error pages / [★6](https://github.com/wuhan005/ingress-custom-error-pages/stargazers) / `Go` `Flamego` `Kubernetes` `Nginx Ingress`
 - 🪤 [k8s-image-replacer](https://github.com/wuhan005/k8s-image-replacer) - Replace image when creating pod, aims to speed up image pulling / [★2](https://github.com/wuhan005/k8s-image-replacer/stargazers) / `Go` `Flamego` `Kubernetes` `Mutating Webhook`
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★54](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
