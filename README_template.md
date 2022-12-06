@@ -9,7 +9,7 @@
 - 🐭 Focus on Go.
 - 🏠 Blog at [github.red](https://github.red).
 - 📩 Reach me by [sending me an email](mailto:i@github.red).
-- 💬 [Ask me something?](https://box.n3ko.co/_/e99)
+- 💬 [Ask me something anonymously?](https://box.n3ko.co/_/e99)
 - 🤤 [Buy me a cup of coffee.](https://github.com/sponsors/wuhan005/)
 - 🌃 Check out [my personal side project roadmap](https://github.com/users/wuhan005/projects/2).
 - 💫 I'm proud of who I am, what I have built, and what I am building.
