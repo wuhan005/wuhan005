@@ -15,9 +15,9 @@
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
-- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform  / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
-- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection  / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
-- 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner  / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
+- 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★675](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
+- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★191](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
+- 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★35](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy  / `Go` `MitM` `HTTP(S)` `Flamego` `alpine.js` `SQLite`
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework  / `Go` `Flamego` `Serverless` `CLI` `Daemon`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box  / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
