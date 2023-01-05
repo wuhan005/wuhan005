@@ -22,8 +22,8 @@ Some cool gadgets I made:
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework / [★6](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★98](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
 - 😵 [ingress-custom-error-pages](https://github.com/wuhan005/ingress-custom-error-pages) - Customized Ingress error pages / [★6](https://github.com/wuhan005/ingress-custom-error-pages/stargazers) / `Go` `Flamego` `Kubernetes` `Nginx Ingress`
-- 🪤 [k8s-image-replacer](https://github.com/wuhan005/k8s-image-replacer) - Replace image when creating pod, aims to speed up image pulling  / `Go` `Flamego` `Kubernetes` `Mutating Webhook`
-- 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking  / `Go` `docker-compose`
+- 🪤 [k8s-image-replacer](https://github.com/wuhan005/k8s-image-replacer) - Replace image when creating pod, aims to speed up image pulling / [★3](https://github.com/wuhan005/k8s-image-replacer/stargazers) / `Go` `Flamego` `Kubernetes` `Mutating Webhook`
+- 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★55](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization  / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON  / `Go` `JSON`
