@@ -26,7 +26,7 @@ Some cool gadgets I made:
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★56](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 👾 [Apicon](https://apicon.cn/) - API sharing platform  / `Go` `beego` `GORM` `Redis` `Serverless` `API Gateway` `Rate Limit`
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★109](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
-- 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
+- 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON  / `Go` `JSON`
 - 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links  / `PHP` `WordPress`
 - 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts  / `PHP` `WordPress`
 
