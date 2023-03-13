@@ -70,6 +70,13 @@ projects:
       - Flamego
       - Kubernetes
       - Mutating Webhook
+  - icon: 🚜
+    link: https://github.com/wuhan005/forklift
+    desc: Lightweight container image pre-download component for Kubernetes
+    tags:
+      - Go
+      - Kubernetes
+      - Helm Chart
   - icon: 👻
     link: https://github.com/wuhan005/icppp
     desc: The way to bypass website ICP checking
