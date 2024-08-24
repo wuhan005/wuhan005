@@ -10,7 +10,7 @@
 - 🏠 Blog at [github.red](https://github.red).
 - 📩 Reach me by [sending me an email](mailto:i@github.red).
 - 🤤 [Buy me a cup of coffee.](https://github.com/sponsors/wuhan005/)
-- 🌃 Check out [my personal side project roadmap](https://github.com/users/wuhan005/projects/2).
+- 🌃 Check out [my personal side project roadmap](https://e9p.notion.site/E99p1ant-s-Side-Project-Roadmap-004dc33b7619459ca4ae3b28532a2beb).
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
