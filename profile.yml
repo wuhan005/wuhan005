@@ -1,4 +1,31 @@
 projects:
+  - icon: 📫
+    link: https://github.com/NekoWheel/NekoBox
+    desc: Anonymous question box
+    tags:
+      - Go
+      - GORM
+      - Flamego
+      - Uptrace
+      - CRUD
+      - reCaptcha
+  - icon: 💓
+    link: https://github.com/wuhan005/mebeats
+    desc: Real-time MiBand heart rate data collection
+    tags:
+      - Go
+      - Bluetooh Low Energy
+      - Flamego
+      - Image generation
+  - icon: 🎤
+    link: https://sayrud.com
+    desc: RESTful API generator
+    tags: 
+      - Go
+      - Flamego
+      - GORM
+      - Postgres
+      - Schemaless
   - icon: 🚩
     link: https://github.com/vidar-team/Cardinal
     desc: CTF AWD platform
@@ -8,14 +35,6 @@ projects:
       - Vue
       - Server-Sent Events
       - CRUD
-  - icon: 💓
-    link: https://github.com/wuhan005/mebeats
-    desc: Real-time MiBand heart rate data collection
-    tags:
-      - Go
-      - Bluetooh Low Energy
-      - Flamego
-      - Image generation
   - icon: 🔮
     link: https://github.com/wuhan005/Elaina
     desc: Docker-based remote code runner
@@ -44,16 +63,6 @@ projects:
       - Serverless
       - CLI
       - Daemon
-  - icon: 📫
-    link: https://github.com/NekoWheel/NekoBox
-    desc: Anonymous question box
-    tags:
-      - Go
-      - GORM
-      - Flamego
-      - Uptrace
-      - CRUD
-      - reCaptcha
   - icon: 😵
     link: https://github.com/wuhan005/ingress-custom-error-pages
     desc: Customized Ingress error pages
@@ -83,18 +92,6 @@ projects:
     tags:
       - Go
       - docker-compose
-  - icon: 👾
-    name: Apicon
-    link: https://apicon.cn/
-    desc: API sharing platform
-    tags:
-      - Go
-      - beego
-      - GORM
-      - Redis
-      - Serverless
-      - API Gateway
-      - Rate Limit
   - icon: 💫
     link: https://github.com/wuhan005/Asteroid
     desc: CTF AWD real-time 3D data visualization
