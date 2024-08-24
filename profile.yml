@@ -26,6 +26,11 @@ projects:
       - GORM
       - Postgres
       - Schemaless
+  - icon: ✅
+    link: https://github.com/wuhan005/govalid
+    desc: A simple Go form validator.
+    tags:
+      - Go
   - icon: 🚩
     link: https://github.com/vidar-team/Cardinal
     desc: CTF AWD platform
