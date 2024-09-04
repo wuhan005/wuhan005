@@ -15,7 +15,7 @@
 
 Some cool gadgets I made:
 - 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★205](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
-- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★238](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
+- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★239](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless`
 - ✅ [govalid](https://github.com/wuhan005/govalid) - A simple Go form validator. / [★8](https://github.com/wuhan005/govalid/stargazers) / `Go`
 - 🚩 [Cardinal](https://github.com/vidar-team/Cardinal) - CTF AWD platform / [★892](https://github.com/vidar-team/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
