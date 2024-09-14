@@ -25,7 +25,7 @@ Some cool gadgets I made:
 - 😵 [ingress-custom-error-pages](https://github.com/wuhan005/ingress-custom-error-pages) - Customized Ingress error pages / [★6](https://github.com/wuhan005/ingress-custom-error-pages/stargazers) / `Go` `Flamego` `Kubernetes` `Nginx Ingress`
 - 🪤 [k8s-image-replacer](https://github.com/wuhan005/k8s-image-replacer) - Replace image when creating pod, aims to speed up image pulling / [★6](https://github.com/wuhan005/k8s-image-replacer/stargazers) / `Go` `Flamego` `Kubernetes` `Mutating Webhook`
 - 🚜 [forklift](https://github.com/wuhan005/forklift) - Lightweight container image pre-download component for Kubernetes / [★6](https://github.com/wuhan005/forklift/stargazers) / `Go` `Kubernetes` `Helm Chart`
-- 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★67](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
+- 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★68](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - CTF AWD real-time 3D data visualization / [★132](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
 - 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★8](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
