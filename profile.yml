@@ -34,7 +34,7 @@ projects:
       - Go
   - icon: 🚩
     link: https://github.com/05sec/Cardinal
-    desc: [Archive] CTF AWD platform
+    desc: "[Archive] CTF AWD platform"
     tags:
       - Go
       - GORM
@@ -100,7 +100,7 @@ projects:
       - docker-compose
   - icon: 💫
     link: https://github.com/wuhan005/Asteroid
-    desc: [Archive] CTF AWD real-time 3D data visualization
+    desc: "[Archive] CTF AWD real-time 3D data visualization"
     tags:
       - C#
       - Unity3D
