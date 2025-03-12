@@ -13,8 +13,8 @@
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
-- 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★242](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
-- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★249](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
+- 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★243](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
+- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★250](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
 - ✅ [govalid](https://github.com/wuhan005/govalid) - A simple Go form validator. / [★8](https://github.com/wuhan005/govalid/stargazers) / `Go`
 - 🚩 [Cardinal](https://github.com/05sec/Cardinal) - [Archive] CTF AWD platform / [★934](https://github.com/05sec/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
