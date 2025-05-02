@@ -3,7 +3,7 @@ name: Cron Task
 on:
   push:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
@@ -25,13 +25,23 @@ jobs:
       - name: Build & Run
         run: |
           go build . && ./wuhan005 && rm wuhan005
-      
+
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v3
         with:
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
           git-user-signingkey: true
           git-commit-gpgsign: true
+
+      - name: Update sponsors.svg
+        run: |
+          cd sponsorkit
+          pnpm install
+          pnpm run build
+          mv -f sponsors.svg ../sponsors.svg
+        env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: wuhan005
 
       - name: Git Commit
         run: |
