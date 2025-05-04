@@ -29,8 +29,8 @@ jobs:
       - name: Update sponsors.svg
         run: |
           cd sponsorkit
-          pnpm install
-          pnpm run build
+          npm install
+          npm run build
           mv -f sponsors.svg ../sponsors.svg
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
