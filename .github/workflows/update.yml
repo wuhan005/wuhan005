@@ -31,7 +31,7 @@ jobs:
           cd sponsorkit
           npm install
           npm run build
-          mv -f sponsors.svg ../sponsors.svg
+          mv -f ./sponsorkit/sponsors.svg ../sponsors.svg
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: wuhan005
