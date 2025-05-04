@@ -40,4 +40,7 @@ Some cool gadgets I made:
 - [**CVE-2022-23642**](https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-qcmp-fx72-q8q9) **Sourcegraph** Remote Code Execution in Sourcegraph gitserver.
 
 
+💸 My backers:
+[![Sponsors](sponsors.svg)](https://github.com/sponsors/wuhan005)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
