@@ -13,10 +13,10 @@
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
-- 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box  / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
-- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection  / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
+- 📫 [NekoBox](https://github.com/NekoWheel/NekoBox) - Anonymous question box / [★256](https://github.com/NekoWheel/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
+- 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★258](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
-- ✅ [govalid](https://github.com/wuhan005/govalid) - A simple Go form validator.  / `Go`
+- ✅ [govalid](https://github.com/wuhan005/govalid) - A simple Go form validator. / [★8](https://github.com/wuhan005/govalid/stargazers) / `Go`
 - 🚩 [Cardinal](https://github.com/05sec/Cardinal) - [Archive] CTF AWD platform  / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner  / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy  / `Go` `MitM` `HTTP(S)` `Flamego` `alpine.js` `SQLite`
