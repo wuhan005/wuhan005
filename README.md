@@ -17,7 +17,7 @@ Some cool gadgets I made:
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★259](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
 - ✅ [govalid](https://github.com/wuhan005/govalid) - A simple Go form validator. / [★8](https://github.com/wuhan005/govalid/stargazers) / `Go`
-- 🚩 [Cardinal](https://github.com/05sec/Cardinal) - [Archive] CTF AWD platform / [★971](https://github.com/05sec/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
+- 🚩 [Cardinal](https://github.com/05sec/Cardinal) - [Archive] CTF AWD platform / [★972](https://github.com/05sec/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★46](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★34](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Flamego` `alpine.js` `SQLite`
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework / [★6](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
