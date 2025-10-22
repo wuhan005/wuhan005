@@ -17,7 +17,7 @@ Some cool gadgets I made:
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★259](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
 - ✅ [govalid](https://github.com/wuhan005/govalid) - A simple Go form validator. / [★8](https://github.com/wuhan005/govalid/stargazers) / `Go`
-- 🚩 [Cardinal](https://github.com/05sec/Cardinal) - [Archive] CTF AWD platform / [★973](https://github.com/05sec/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
+- 🚩 [Cardinal](https://github.com/05sec/Cardinal) - [Archive] CTF AWD platform / [★974](https://github.com/05sec/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
 - 🔮 [Elaina](https://github.com/wuhan005/Elaina) - Docker-based remote code runner / [★46](https://github.com/wuhan005/Elaina/stargazers) / `Go` `Vue` `Docker` `Rate Limit` `CodeMirror`
 - 🧹 [Houki](https://github.com/wuhan005/Houki) - Customizable MitM proxy / [★34](https://github.com/wuhan005/Houki/stargazers) / `Go` `MitM` `HTTP(S)` `Flamego` `alpine.js` `SQLite`
 - ☁️ [Raika](https://github.com/wuhan005/Raika) - Hybrid cloud serverless function framework / [★6](https://github.com/wuhan005/Raika/stargazers) / `Go` `Flamego` `Serverless` `CLI` `Daemon`
@@ -27,8 +27,8 @@ Some cool gadgets I made:
 - 👻 [icppp](https://github.com/wuhan005/icppp) - The way to bypass website ICP checking / [★74](https://github.com/wuhan005/icppp/stargazers) / `Go` `docker-compose`
 - 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - [Archive] CTF AWD real-time 3D data visualization / [★138](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
-- 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links  / `PHP` `WordPress`
-- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts  / `PHP` `WordPress`
+- 🔗 [Frlink](https://github.com/wuhan005/Frlink) - Beautify WordPress friends links / [★8](https://github.com/wuhan005/Frlink/stargazers) / `PHP` `WordPress`
+- 🔍 [GrabMe](https://github.com/wuhan005/GrabMe) - Hide contents in your WordPress posts / [★4](https://github.com/wuhan005/GrabMe/stargazers) / `PHP` `WordPress`
 
 
 🎯 My CVE list:
