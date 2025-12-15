@@ -1,0 +1,37 @@
+# https://github.com/mnixry/mnixry/blob/main/.github/workflows/starred.yml
+name: Update awesome-stars
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: 30 0 * * *
+
+jobs:
+  awesome-stars:
+    name: Update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install starred
+
+      - name: update repo category by topic
+        run: |
+          starred \
+            --sort \
+            --username ${{ github.repository_owner }} \
+            --token ${{ secrets.GITHUB_TOKEN }} \
+            --topic \
+            --topic_limit 500 > STARRED.md
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "Awesome stars update - [Skip GitHub Action]"
