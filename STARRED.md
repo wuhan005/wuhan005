@@ -517,6 +517,7 @@
 ## cybersecurity 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor
 - [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.
 
 ## data-science 
@@ -680,7 +681,7 @@
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [UnionOfRAD/lithium](https://github.com/UnionOfRAD/lithium) - li₃ is the fast, flexible and most RAD development framework for PHP
-- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
+- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [panique/mini](https://github.com/panique/mini) - Just an extremely simple naked PHP application, useful for small projects and quick prototypes. Some might call it a micro framework :)
 
@@ -1167,7 +1168,6 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [tinycedar/classp](https://github.com/tinycedar/classp) - 用Go开发的Java字节码解析器，和“javap”命令作用一致 Java class file parser plays the same role as "javap"
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
 - [waylau/books-collection](https://github.com/waylau/books-collection) - To the programmer's open source and free books collection  给程序员的开源、免费书籍收集，图书集合。
 - [HenryHu2000/KantanMemory](https://github.com/HenryHu2000/KantanMemory) - Japanese Vocabulary Learning Assistant
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -2067,7 +2067,7 @@
 - [viraptor/phply](https://github.com/viraptor/phply) - PHP parser written in Python using PLY
 - [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
-- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
+- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor
 - [youyuge34/Anime-InPainting](https://github.com/youyuge34/Anime-InPainting) - An application tool of edge-connect, which can do anime inpainting and drawing.   动漫人物图片自动修复，去马赛克，填补，去瑕疵
 - [PyQt5/PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -2137,6 +2137,7 @@
 
 - [icyleaf/bandwagon-exporter](https://github.com/icyleaf/bandwagon-exporter) - A Prometheus Exporter for Bandwagon KiwiVM written with Rust
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - The next-generation CTF Swiss Army Knife powered by Rust & Tauri. Features a visual node-based workflow and local AI intelligence for extreme performance and automation.China's first CTFTools framewor
 
 ## sass 
 
