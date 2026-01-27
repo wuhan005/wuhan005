@@ -1,5 +1,3 @@
-<!-- <a href="https://busy.moe/"><img align="right" src="https://busy.moe/badges/2?style=for-the-badge"/></a> -->
-
 ### Hi, I'm **E99p1ant**. 👋
 
 <a href="https://github.com/wuhan005?tab=repositories">
