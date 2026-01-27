@@ -28,14 +28,6 @@ type cve struct {
 	Description string `yaml:"description"`
 }
 
-type post struct {
-	Title struct {
-		Rendered string `json:"rendered"`
-	} `json:"title"`
-	Link string `json:"link"`
-	Date string `json:"date"`
-}
-
 type profile struct {
 	Projects []project `yaml:"projects"`
 	CVEs     []cve     `yaml:"cves"`
@@ -70,35 +62,9 @@ func main() {
 	cvesMarkdown := makeCVEMarkdown(profile.CVEs)
 	readmeBytes = bytes.ReplaceAll(readmeBytes, []byte("{{CVE}}"), []byte(cvesMarkdown))
 
-	err = os.WriteFile("README.md", readmeBytes, 0644)
-	if err != nil {
+	if err = os.WriteFile("README.md", readmeBytes, 0644); err != nil {
 		log.Fatal("Failed to write README.md: %v", err)
 	}
-
-}
-
-func makePostMarkdown() string {
-	resp, err := http.Get("https://github.red/wp-json/wp/v2/posts")
-	if err != nil {
-		log.Error("Failed to get blog posts: %v", err)
-		return ""
-	}
-
-	var posts []post
-	if err := json.NewDecoder(resp.Body).Decode(&posts); err != nil {
-		log.Error("Failed to unmarshal blog posts response body: %v", err)
-		return ""
-	}
-
-	defer func() {
-		_ = resp.Body.Close()
-	}()
-
-	var postMarkdown string
-	for _, post := range posts {
-		postMarkdown += fmt.Sprintf("- [%s](%s) - %s\n", post.Title.Rendered, post.Link, strings.ReplaceAll(post.Date, "T", " "))
-	}
-	return postMarkdown
 }
 
 func makeProjectMarkdown(projects []project) string {
@@ -153,13 +119,11 @@ func getRepoStarCount(link string) (int64, error) {
 	if err != nil {
 		return 0, errors.Wrap(err, "request GitHub API")
 	}
-	defer resp.Body.Close()
+	defer func() { _ = resp.Body.Close() }()
 
-	type repoMeta struct {
+	var meta struct {
 		StargazersCount int64 `json:"stargazers_count"`
 	}
-
-	var meta repoMeta
 	err = json.NewDecoder(resp.Body).Decode(&meta)
 	if err != nil {
 		return 0, errors.Wrap(err, "unmarshal")
