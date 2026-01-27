@@ -1,6 +1,6 @@
 projects:
   - icon: 📫
-    link: https://github.com/NekoWheel/NekoBox
+    link: https://github.com/wuhan005/NekoBox
     desc: Anonymous question box
     tags:
       - Go
@@ -26,6 +26,15 @@ projects:
       - GORM
       - Postgres
       - Schemaless
+      - LLM
+  - icon: 🤗
+    link: https://tako.chat
+    desc: Lightweight wrapper platform for large language models.
+    tags:
+      - Go
+      - Flamego
+      - GORM
+      - Postgres
       - LLM
   - icon: ✅
     link: https://github.com/wuhan005/govalid
