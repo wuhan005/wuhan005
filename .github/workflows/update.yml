@@ -37,7 +37,7 @@ jobs:
           git config --local user.email "bot@github.red"
           git config --local user.name "Eggplant Bot"
           git add README.md sponsors.svg
-          git commit -m "Update README.md" || true
+          git commit -m "Update README.md - [Skip GitHub Action]" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
