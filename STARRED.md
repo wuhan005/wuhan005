@@ -1533,7 +1533,7 @@
 
 ## others 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [ray-project/llmperf](https://github.com/ray-project/llmperf) - LLMPerf is a library for validating and benchmarking LLMs
