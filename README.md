@@ -22,8 +22,8 @@ Some cool gadgets I made:
 - 😵 [ingress-custom-error-pages](https://github.com/wuhan005/ingress-custom-error-pages) - Customized Ingress error pages / [★6](https://github.com/wuhan005/ingress-custom-error-pages/stargazers) / `Go` `Flamego` `Kubernetes` `Nginx Ingress`
 - 🪤 [k8s-image-replacer](https://github.com/wuhan005/k8s-image-replacer) - Replace image when creating pod, aims to speed up image pulling / [★6](https://github.com/wuhan005/k8s-image-replacer/stargazers) / `Go` `Flamego` `Kubernetes` `Mutating Webhook`
 - 🚜 [forklift](https://github.com/wuhan005/forklift) - Lightweight container image pre-download component for Kubernetes / [★9](https://github.com/wuhan005/forklift/stargazers) / `Go` `Kubernetes` `Helm Chart`
-- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - [Archive] CTF AWD real-time 3D data visualization / [★139](https://github.com/wuhan005/Asteroid/stargazers) / `C#` `Unity3D` `WebSocket`
-- 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★5](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
+- 💫 [Asteroid](https://github.com/wuhan005/Asteroid) - [Archive] CTF AWD real-time 3D data visualization  / `C#` `Unity3D` `WebSocket`
+- 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON  / `Go` `JSON`
 
 
 🎯 My CVE list:
