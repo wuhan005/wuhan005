@@ -69,6 +69,7 @@
 - [english](#english)
 - [es6](#es6)
 - [express](#express)
+- [fastapi](#fastapi)
 - [firefox](#firefox)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -669,6 +670,10 @@
 
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+
+## fastapi 
+
+- [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
 
 ## firefox 
 
