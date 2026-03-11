@@ -1757,7 +1757,7 @@
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [scottgl9/ios_ssl_proxy](https://github.com/scottgl9/ios_ssl_proxy) - ssl rewrite proxy for ios
 - [Altonhe/RProxy2](https://github.com/Altonhe/RProxy2) - A simple Magisk module can make you access discord&& steam community etc.
-- [SunHuawei/SourceDetector](https://github.com/SunHuawei/SourceDetector) - Chrome extension，用于发现源码文件(*.map)
+- [SunHuawei/SourceDetector](https://github.com/SunHuawei/SourceDetector) - Discover source maps. Inspect client-side assets. Catch risky leaks faster.
 - [alvinbaena/passkit](https://github.com/alvinbaena/passkit) - Create Apple Wallet Passes in Go
 - [zn-cn/MicroServicePractice](https://github.com/zn-cn/MicroServicePractice) - 微服务实践的demo
 - [Eikanya/Live2d-model](https://github.com/Eikanya/Live2d-model) - Live2d model collection
