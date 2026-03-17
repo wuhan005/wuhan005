@@ -2094,6 +2094,7 @@
 
 ## python3 
 
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [tcc0lin/Review_Reverse](https://github.com/tcc0lin/Review_Reverse) - 
 - [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
