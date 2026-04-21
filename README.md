@@ -11,7 +11,7 @@
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
-- 📫 [NekoBox](https://github.com/wuhan005/NekoBox) - Anonymous question box / [★289](https://github.com/wuhan005/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
+- 📫 [NekoBox](https://github.com/wuhan005/NekoBox) - Anonymous question box / [★290](https://github.com/wuhan005/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★258](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
 - 🤗 [tako.chat](https://tako.chat) - Lightweight wrapper platform for large language models.  / `Go` `Flamego` `GORM` `Postgres` `LLM`
