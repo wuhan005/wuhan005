@@ -389,6 +389,7 @@
 
 ## c 
 
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 
@@ -760,6 +761,7 @@
 
 ## go 
 
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
@@ -1310,6 +1312,7 @@
 
 ## language 
 
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [viraptor/phply](https://github.com/viraptor/phply) - PHP parser written in Python using PLY
 
 ## laravel 
