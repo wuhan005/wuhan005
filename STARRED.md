@@ -858,7 +858,7 @@
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
 - [yqchilde/Golang-Interview](https://github.com/yqchilde/Golang-Interview) - Golang面试题，收集自Golang中文网，收集是为了自己可以巩固复习，不必要每次去找
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [wuhan005/govalid](https://github.com/wuhan005/govalid) - 一直没有好用的表单验证库，索性写一个自己用。/ A simple Go form validator.
+- [wuhan005/govalid](https://github.com/wuhan005/govalid) - 一直没有好用的表单验证库，索性写一个自己用。/ A simple, struct-tag driven validator for Go.
 - [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
 - [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
