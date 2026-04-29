@@ -29,6 +29,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -398,6 +399,10 @@
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+## c-sharp 
+
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 ## chatbot 
 
@@ -1978,7 +1983,6 @@
 - [jirengu-inc/animating-resume](https://github.com/jirengu-inc/animating-resume) - 饥人谷出品：一个会动的简历。欢迎 Fork ➡️
 - [CodeIgniter-Chinese/codeigniter-user-guide](https://github.com/CodeIgniter-Chinese/codeigniter-user-guide) - CodeIgniter 3.x Chinese User Guide - CodeIgniter 3.x 简体中文手册
 - [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [xmcp/bilibili-ban-list](https://github.com/xmcp/bilibili-ban-list) - 居家旅行常备的B站弹幕屏蔽列表
 - [KeyMove/BKlink](https://github.com/KeyMove/BKlink) - b站弹幕播放器
 - [sean-lin/buibui](https://github.com/sean-lin/buibui) - 年会用弹幕系统
