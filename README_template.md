@@ -4,7 +4,7 @@
   <img align="right" src="./profile/stats.svg" width="44%" alt="GitHub Stats" />
 </a>
 
-**Hi, I am E99p1ant. 👋🏻**
+**Hi, I am E99p1ant. 👋**
 
 - 🐭 Focus on Go.
 - 🏠 Blog at [github.red](https://github.red).
