@@ -1,8 +1,10 @@
-### Hi, I'm **E99p1ant**. 👋
+### 👨‍💻 &nbsp;About me
 
 <a href="https://github.com/wuhan005?tab=repositories">
-  <img align="right" src="./profile/stats.svg" width="45%" />
+  <img align="right" src="./profile/stats.svg" width="44%" alt="GitHub Stats" />
 </a>
+
+**Hi, I am E99p1ant. 👋🏻**
 
 - 🐭 Focus on Go.
 - 🏠 Blog at [github.red](https://github.red).
@@ -10,7 +12,10 @@
 - 🤤 [Buy me a cup of coffee.](https://github.com/sponsors/wuhan005/)
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
-Some cool gadgets I made:
+---
+
+### 🛠️ &nbsp;Some cool gadgets I made
+
 - 📫 [NekoBox](https://github.com/wuhan005/NekoBox) - Anonymous question box / [★291](https://github.com/wuhan005/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★259](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
@@ -26,7 +31,10 @@ Some cool gadgets I made:
 - 🔧 [jkit](https://github.com/wuhan005/jkit) - CLI tool for JSON / [★6](https://github.com/wuhan005/jkit/stargazers) / `Go` `JSON`
 
 
-🎯 My CVE list:
+---
+
+### 🎯 &nbsp;My CVE list
+
 - [**CVE-2022-31038**](https://github.com/advisories/GHSA-xq4v-vrp9-vcf2) **Gogs** XSS vulnerability in repository issue list.
 - [**CVE-2022-30781**](https://github.com/advisories/GHSA-p5f9-c9j9-g8qx) **Gitea** Remote command exection in repository migration.
 - [**CVE-2022-0415**](https://github.com/advisories/GHSA-5gjh-5j4f-cpwv) **Gogs** Remote command execution in file uploading.
@@ -35,7 +43,22 @@ Some cool gadgets I made:
 - [**CVE-2022-23642**](https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-qcmp-fx72-q8q9) **Sourcegraph** Remote Code Execution in Sourcegraph gitserver.
 
 
-💸 My backers:
-[![Sponsors](sponsors.svg)](https://github.com/sponsors/wuhan005)
+---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=e99p1ant)
+### 💸 &nbsp;My backers
+
+> Huge thanks to everyone who keeps the coffee flowing. ☕
+
+<div align="center">
+  <a href="https://github.com/sponsors/wuhan005">
+    <img src="sponsors.svg" alt="Sponsors" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=e99p1ant&left_color=4F46E5&right_color=22C55E&left_text=visitors" alt="visitors" />
+
+</div>
