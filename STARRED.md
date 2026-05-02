@@ -1708,7 +1708,7 @@
 - [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [naiba-archived/code-runner](https://github.com/naiba-archived/code-runner) - :construction_worker: Docker-based remote code runner with simple API.
-- [wuhan005/jkit](https://github.com/wuhan005/jkit) - 🔧 JSON CLI Tool
+- [wuhan005/jkit](https://github.com/wuhan005/jkit) - 🔧 Your clipboard's JSON Swiss Army knife.
 - [google/kctf](https://github.com/google/kctf) - kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
 - [pren1/fans_kalman](https://github.com/pren1/fans_kalman) - To predict the fans of any vtuber
 - [1996scarlet/OpenVtuber](https://github.com/1996scarlet/OpenVtuber) - 虚拟爱抖露(アイドル)共享计划, 是基于单目RGB摄像头的人眼与人脸特征点检测算法, 在实时3D面部捕捉以及模型驱动领域的应用.
