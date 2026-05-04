@@ -1741,7 +1741,7 @@
 - [Threezh1/SiteCopy](https://github.com/Threezh1/SiteCopy) - sitecopy is a tool that facilitates personal website backup and network data collection
 - [codegangsta/inject](https://github.com/codegangsta/inject) - Dependency injection for go
 - [lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System](https://github.com/lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System) - Blackhat USA 2018 Arsenal
-- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern host manager
+- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern, cross-platform machine manager
 - [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 - [alphaSeclab/awesome-webshell](https://github.com/alphaSeclab/awesome-webshell) - Awesome webshell collection. Including 150 Github repo, and 200+ blog posts.
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
