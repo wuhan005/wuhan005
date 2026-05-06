@@ -1594,7 +1594,6 @@
 
 ## others 
 
-- [frederica-security/nasdq_dca_strategy](https://github.com/frederica-security/nasdq_dca_strategy) - 
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
