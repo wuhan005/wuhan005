@@ -826,7 +826,7 @@
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 - [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
-- [flamego/flamego](https://github.com/flamego/flamego) - A fantastic modular Go web framework with a slim core but limitless extensibility
+- [flamego/flamego](https://github.com/flamego/flamego) - The modular Go framework for composable systems
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
