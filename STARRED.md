@@ -804,7 +804,7 @@
 - [unknwon/flamego-basics](https://github.com/unknwon/flamego-basics) - 《Flamego 框架基础》是一套针对 Go 语言 Web 框架 Flamego 出品的视频语音教程，主要面向 Web 应用开发者
 - [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively
 - [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a stupid web server for multilingual documentation
-- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by Milvus and Beego.
+- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by many important systems
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [github/codeql-go](https://github.com/github/codeql-go) - The CodeQL extractor and libraries for Go.
 - [jaytaylor/html2text](https://github.com/jaytaylor/html2text) - Golang HTML to plaintext conversion library
