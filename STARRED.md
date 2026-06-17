@@ -839,7 +839,7 @@
 - [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-- [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+- [cel-expr/cel-go](https://github.com/cel-expr/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [storyicon/gos](https://github.com/storyicon/gos) - Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
@@ -986,7 +986,7 @@
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [goplus/gogen](https://github.com/goplus/gogen) - Code generator for the Go language
-- [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+- [cel-expr/cel-go](https://github.com/cel-expr/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [storyicon/gos](https://github.com/storyicon/gos) - Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
@@ -1714,7 +1714,7 @@
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
 - [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - hso!
 - [blacktunes/hiiro-button](https://github.com/blacktunes/hiiro-button) - Hiiro的语音按钮
-- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+- [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 - [jjf012/gopoc](https://github.com/jjf012/gopoc) - 用cel-go重现了长亭xray的poc检测功能的轮子
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 - [bin-maker/BYPASS-CDN](https://github.com/bin-maker/BYPASS-CDN) - 
