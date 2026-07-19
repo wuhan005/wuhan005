@@ -580,7 +580,7 @@
 ## database 
 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [go-norm/norm](https://github.com/go-norm/norm) - An ergonomic toolkit for building database-agnostic applications
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -1394,7 +1394,7 @@
 
 ## low-code 
 
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1543,7 +1543,7 @@
 ## no-code 
 
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## node 
@@ -2089,7 +2089,7 @@
 
 ## postgresql 
 
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [alash3al/sqler](https://github.com/alash3al/sqler) - write APIs using direct SQL queries with no hassle, let's rethink about SQL
@@ -2338,7 +2338,6 @@
 ## sqlite 
 
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [upper/db](https://github.com/upper/db) - Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 
