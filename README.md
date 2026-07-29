@@ -16,7 +16,7 @@
 
 ### 🛠️ &nbsp;Some cool gadgets I made
 
-- 📫 [NekoBox](https://github.com/wuhan005/NekoBox) - Anonymous question box / [★293](https://github.com/wuhan005/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
+- 📫 [NekoBox](https://github.com/wuhan005/NekoBox) - Anonymous question box / [★294](https://github.com/wuhan005/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★261](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
 - 🎤 [sayrud.com](https://sayrud.com) - RESTful API generator  / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
 - 🤗 [tako.chat](https://tako.chat) - Lightweight wrapper platform for large language models.  / `Go` `Flamego` `GORM` `Postgres` `LLM`
