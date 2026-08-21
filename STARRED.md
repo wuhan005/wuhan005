@@ -1699,7 +1699,7 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [polaris1119/downloader](https://github.com/polaris1119/downloader) - 并发下载的示例程序
 - [tenntenn/testtime](https://github.com/tenntenn/testtime) - time.Now for tests
-- [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) - A WebDriver server for iOS and tvOS
+- [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) - A WebDriver server for iOS, tvOS and watchOS
 - [dsh0416/busy](https://github.com/dsh0416/busy) - tell if I am busy
 - [dlsniper/phas](https://github.com/dlsniper/phas) - Personal Home Automation System
 - [hooopo/schemaless-pg](https://github.com/hooopo/schemaless-pg) - 使用Postgres实现一个Leancloud clone
