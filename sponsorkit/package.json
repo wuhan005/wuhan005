@@ -5,6 +5,6 @@
     "build": "sponsorkit"
   },
   "dependencies": {
-    "sponsorkit": "^16.4.2"
+    "sponsorkit": "^18.0.0"
   }
 }
