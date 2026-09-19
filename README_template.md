@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner_profile.webp" width="720" alt="E99p1ant — Be cool, but also be warm." />
+  <img src="./images/banner_profile.webp" width="480" alt="E99p1ant — Be cool, but also be warm." />
 </p>
 
 ### 👨‍💻 &nbsp;About me
