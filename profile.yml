@@ -18,8 +18,8 @@ projects:
       - Flamego
       - Image generation
   - icon: 🎤
-    link: https://sayrud.com
-    desc: RESTful API generator
+    link: https://github.com/sayrud/sayrud
+    desc: Yet another collaborative spreadsheet.
     tags: 
       - Go
       - Flamego
