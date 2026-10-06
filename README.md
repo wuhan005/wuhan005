@@ -22,7 +22,7 @@
 
 - 📫 [NekoBox](https://github.com/wuhan005/NekoBox) - Anonymous question box / [★295](https://github.com/wuhan005/NekoBox/stargazers) / `Go` `GORM` `Flamego` `Uptrace` `CRUD` `reCaptcha`
 - 💓 [mebeats](https://github.com/wuhan005/mebeats) - Real-time MiBand heart rate data collection / [★262](https://github.com/wuhan005/mebeats/stargazers) / `Go` `Bluetooh Low Energy` `Flamego` `Image generation`
-- 🎤 [sayrud](https://github.com/sayrud/sayrud) - Yet another collaborative spreadsheet. / [★3](https://github.com/sayrud/sayrud/stargazers) / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
+- 🎤 [sayrud](https://github.com/sayrud/sayrud) - Yet another collaborative spreadsheet. / [★4](https://github.com/sayrud/sayrud/stargazers) / `Go` `Flamego` `GORM` `Postgres` `Schemaless` `LLM`
 - 🤗 [tako.chat](https://tako.chat) - Lightweight wrapper platform for large language models.  / `Go` `Flamego` `GORM` `Postgres` `LLM`
 - ✅ [govalid](https://github.com/wuhan005/govalid) - A simple Go form validator. / [★8](https://github.com/wuhan005/govalid/stargazers) / `Go`
 - 🚩 [Cardinal](https://github.com/05sec/Cardinal) - [Archive] CTF AWD platform / [★999](https://github.com/05sec/Cardinal/stargazers) / `Go` `GORM` `Vue` `Server-Sent Events` `CRUD`
