@@ -1618,6 +1618,7 @@
 
 ## others 
 
+- [Calcium-Ion/moejs](https://github.com/Calcium-Ion/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
 - [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity) - An explorable 3D city that shows how Postgres actually works
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
