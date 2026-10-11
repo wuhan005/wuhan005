@@ -71,7 +71,7 @@ projects:
       - SQLite
   - icon: 😵
     link: https://github.com/wuhan005/ingress-custom-error-pages
-    desc: Customized Ingress error pages
+    desc: Customized error pages for Nginx Ingress and Traefik
     tags:
       - Go
       - Flamego
