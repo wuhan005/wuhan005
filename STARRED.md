@@ -242,6 +242,7 @@
 
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## ai 
@@ -268,6 +269,7 @@
 ## ai-agents 
 
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 
 ## algorithm 
 
@@ -454,7 +456,6 @@
 ## cli 
 
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -803,7 +804,6 @@
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Risor is a fast, embeddable scripting language for Go applications.  Add dynamic expressions, filters, and user-defined logic to your Go programs without embedding a heavy runtime like V8 or Python. E
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -938,7 +938,6 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Risor is a fast, embeddable scripting language for Go applications.  Add dynamic expressions, filters, and user-defined logic to your Go programs without embedding a heavy runtime like V8 or Python. E
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -1323,6 +1322,7 @@
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) - vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and NetworkProxy technologies to enforce access control from system calls to application protocols — protecting 
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -1591,7 +1591,7 @@
 ## open-source 
 
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [waylau/books-collection](https://github.com/waylau/books-collection) - To the programmer's open source and free books collection  给程序员的开源、免费书籍收集，图书集合。
 
@@ -2258,7 +2258,7 @@
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) - vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and NetworkProxy technologies to enforce access control from system calls to application protocols — protecting 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [decalage2/oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
@@ -2288,7 +2288,7 @@
 ## security-tools 
 
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [bloodzer0/ossa](https://github.com/bloodzer0/ossa) - Open-Source Security Architecture | 开源安全架构
@@ -2442,7 +2442,6 @@
 
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [red-axe/am-editor](https://github.com/red-axe/am-editor) - A rich text editor that supports collaborative editing and allows for the free use of front-end common libraries such as React and Vue to extend and define plugins.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
