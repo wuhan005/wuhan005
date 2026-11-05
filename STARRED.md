@@ -729,7 +729,7 @@
 ## english 
 
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
-- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
+- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient fast multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
 
 ## es6 
 
@@ -903,7 +903,7 @@
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
-- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
+- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient fast multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
 - [yqchilde/Golang-Interview](https://github.com/yqchilde/Golang-Interview) - Golang面试题，收集自Golang中文网，收集是为了自己可以巩固复习，不必要每次去找
@@ -1564,7 +1564,7 @@
 
 ## nlp 
 
-- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
+- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient fast multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
 
 ## no-code 
 
