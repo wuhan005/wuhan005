@@ -216,6 +216,7 @@
 - [visual-basic](#visual-basic)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -2005,7 +2006,6 @@
 - [msmbps/msmbps](https://github.com/msmbps/msmbps) - Source code of msmbps
 - [nangge/webchat-robot](https://github.com/nangge/webchat-robot) - 通过分析网页版微信通讯，用php开发出的微信网页版机器人
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 - [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
 - [stonexer/wechatBot](https://github.com/stonexer/wechatBot) - 面向个人的微信 wechat 机器人平台 - 使用微信网页版接口 wechat4u
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -2542,6 +2542,10 @@
 ## vpn 
 
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - A toolkit for Integrating with your kubernetes dev environment more efficiently
+
+## vscode 
+
+- [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 
 ## vue 
 
