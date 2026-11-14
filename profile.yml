@@ -52,12 +52,11 @@ projects:
       - CRUD
   - icon: 🔮
     link: https://github.com/wuhan005/Elaina
-    desc: Docker-based remote code runner
+    desc: WebAssembly-powered remote code runner.
     tags:
       - Go
-      - Vue
-      - Docker
-      - Rate Limit
+      - React
+      - WebAssembly
       - CodeMirror
   - icon: 🧹
     link: https://github.com/wuhan005/Houki
