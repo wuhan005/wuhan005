@@ -297,7 +297,7 @@
 
 ## analytics 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 
@@ -803,7 +803,7 @@
 ## github 
 
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1633,7 +1633,7 @@
 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 
 ## opencv 
 
@@ -1697,7 +1697,7 @@
 - [leveryd/go-sec-code](https://github.com/leveryd/go-sec-code) - Go相关的安全研究
 - [github/securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 - [safe6Sec/PentestDB](https://github.com/safe6Sec/PentestDB) - 各种数据库的利用姿势
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
+- [made-in-common/case-police](https://github.com/made-in-common/case-police) - 🚨 Make the case correct, PLEASE!
 - [ASTTeam/CodeQL](https://github.com/ASTTeam/CodeQL) - 《深入理解CodeQL》Finding vulnerabilities with CodeQL.
 - [hudangwei/codemillx](https://github.com/hudangwei/codemillx) - codemillx is a tool for CodeQL, extract the comments in the code and generate codeql module. 强化Go开源项目安全检测(内含开源项目漏洞挖掘方法)
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
@@ -1789,7 +1789,7 @@
 - [RimoChan/Vtuber_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial) - 【教程】从零开始的自制Vtuber！
 - [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - [deprecated] Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 - [KJCracks/Clutch](https://github.com/KJCracks/Clutch) - Fast iOS executable dumper
-- [petejkim/ot.go](https://github.com/petejkim/ot.go) - Operational Transformation backend written in Go compatible with ot.js
+- [nitrous-io/ot.go](https://github.com/nitrous-io/ot.go) - Operational Transformation backend written in Go compatible with ot.js
 - [walsh9/videojs-transcript](https://github.com/walsh9/videojs-transcript) - ▶️📃 Interactive transcript plugin for video.js
 - [stefanesser/dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) - Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
 - [anneviliu/Golang-Windows-Malware-demo](https://github.com/anneviliu/Golang-Windows-Malware-demo) - 
